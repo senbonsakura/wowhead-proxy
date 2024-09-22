@@ -1,4 +1,3 @@
-Here's the updated `README.md` with instructions on how to install from `requirements.txt`:
 
 ---
 
